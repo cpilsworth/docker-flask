@@ -9,4 +9,6 @@ docker run -d -p 8080:8080 app
 ```
 
 ## Test it out
+```
 curl `boot2docker ip`:8080
+```
